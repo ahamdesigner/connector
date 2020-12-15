@@ -1,2 +1,2 @@
-# connector
-connect the entire nodes
+# योजक
+युज पात्
