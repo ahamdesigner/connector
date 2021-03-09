@@ -1,5 +1,5 @@
-let viswamithra
-var Time = "data"
-const lekshmi = "Life Future"
+viswamithra
+Time = "data"
+const lekshmi = "Life Future OK"
 let support = "code network open"
-console.log(support + " shift happy upgrade")
+console.log(support + " Happy upgrade")
